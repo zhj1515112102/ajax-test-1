@@ -1,0 +1,18 @@
+17
+49C:\Users\15151\Desktop\jirengu\ajax-1\public\2.js132750398585684662 0
+47C:\Users\15151\Desktop\jirengu\ajax-1\server.js132751277930131866 0
+40C:\Users\15151\Desktop\jirengu\ajax-1\db132751259988879251 1
+42C:\Users\15151\Desktop\jirengu\ajax-1\dist132752088501653894 1
+44C:\Users\15151\Desktop\jirengu\ajax-1\public132751259780236380 1
+51C:\Users\15151\Desktop\jirengu\ajax-1\public\3.html132750408921298334 0
+55C:\Users\15151\Desktop\jirengu\ajax-1\public\index.html132752088145762406 0
+50C:\Users\15151\Desktop\jirengu\ajax-1\public\4.xml132750463269885550 0
+51C:\Users\15151\Desktop\jirengu\ajax-1\public\5.json132750500088379611 0
+52C:\Users\15151\Desktop\jirengu\ajax-1\public\main.js132751280838849736 0
+54C:\Users\15151\Desktop\jirengu\ajax-1\public\style.css132750379578343983 0
+60C:\Users\15151\Desktop\jirengu\ajax-1\dist\index.bd7ba846.js132752088501554158 0
+64C:\Users\15151\Desktop\jirengu\ajax-1\dist\index.bd7ba846.js.map132752088501623970 0
+53C:\Users\15151\Desktop\jirengu\ajax-1\dist\index.html132752088501554158 0
+51C:\Users\15151\Desktop\jirengu\ajax-1\db\page1.json132751260762572945 0
+51C:\Users\15151\Desktop\jirengu\ajax-1\db\page2.json132751261011090516 0
+51C:\Users\15151\Desktop\jirengu\ajax-1\db\page3.json132751261256647126 0
